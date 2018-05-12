@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script>
+        var connection = new WebSocket('ws://127.0.0.1:6950');
+         connection.onopen = function () {
+         console.log('Connection open!');
+         connection.send("123456");
+         connection.onmessage = function () {
+             console.log(connection.toString());
+         }
+         //connection.close();
+         }
+         connection.onclose = function() {
+         console.log('Connection closed');
+         }
+         connection.onerror = function(error) {
+         console.log('Error detected: ' + error);
+         }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

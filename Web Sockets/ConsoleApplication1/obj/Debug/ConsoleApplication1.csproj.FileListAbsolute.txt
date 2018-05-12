@@ -1,0 +1,6 @@
+D:\Ycheba\3 sem\RP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Ycheba\3 sem\RP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Ycheba\3 sem\RP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Ycheba\3 sem\RP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Ycheba\3 sem\RP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Ycheba\3 sem\RP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
